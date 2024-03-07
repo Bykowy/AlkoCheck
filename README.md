@@ -1,1 +1,1 @@
-# AlkoCheck
+# AlkoCheck EZ
